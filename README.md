@@ -1,6 +1,6 @@
 # $T_{2,metaQ}$
 
-This document includes code to reproduce the data analysis and simulation studies in the manuscript ***"**Better together against genetic heterogeneity: a sex-combined joint main and interaction analysis of 290 quantitative traits in the UK Biobank**".***
+Here are scripts to reproduce the data analysis and simulation studies in the manuscript ***"**Better together against genetic heterogeneity: a sex-combined joint main and interaction analysis of 290 quantitative traits in the UK Biobank**".***
 
 # 0. Neale Lab’s GWAS summary statistics extraction and download
 

@@ -67,7 +67,7 @@ Output:
 
 - `dat_significant_0.01.txt`
     
-    SNP-Phenotype associated with genome-wide significance in at least one of the five tests considered
+    SNP-Phenotype associated with genome-wide significance in at least one of the five tests considered. This file is also available from https://zenodo.org/records/10836714 . 
     
 
 # 2. Plot Figures 1 (pairwise-scatter) and 2 (stacked-manhattan)
